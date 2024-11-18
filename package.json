@@ -1,0 +1,15 @@
+{
+    "name": "your-package-name",
+    "version": "1.0.0",
+    "description": "A brief description of your project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.1",
+        "mongodb": "^3.6.3"
+    }
+}
